@@ -9,3 +9,7 @@
 
 ## Latihan 2
 ![Gambar 9](Latihan02/01.png)
+<p>Untuk perulangan kali ini kita menggunakan <i>while True</i></p>
+<p>Masukkan variable b dengan int input setelah itu gunakan statement if jika <i>b sama dengan 0 program berhenti</i> dan jika <i>b lebih besar dari a print bilangan terbesar b</i> dan akan menghasilkan program seperti dibawah</p>
+
+![Gambar 10](Latihan02/02.png)
