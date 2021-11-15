@@ -16,3 +16,9 @@
 
 ## Program 1 (Menghitung Laba)
 ![Gambar 11](Program01/01.png)
+<p>Disini saya menggunakan metode gabungan perulangan <i>for dan if</i></p>
+<p>buatlah integer untuk modal awal 100 juta dan variable untuk range.</P>
+<p>setelah itu atur range dengan metode if untuk menghitung laba tiap bulan. Setelah itu kalian bisa menghitung keuntungan dengan menjumlahkan laba setiap bulannya. dan akan menghasilkan program seperti dibawah.
+
+![Gambar 12](Program01/02.png)
+## end
