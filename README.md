@@ -6,3 +6,6 @@
 <p><i>b = random()%0.5</i> digunakan untuk mencari nilai random 0.5</p>
 
 ![Gambar 8](Latihan01/02.png)
+
+## Latihan 2
+![Gambar 9](Latihan02/01.png)
