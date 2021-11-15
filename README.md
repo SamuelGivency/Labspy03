@@ -15,4 +15,4 @@
 ![Gambar 10](Latihan02/02.png)
 
 ## Program 1 (Menghitung Laba)
-![Gambar 11](Program/01.png)
+![Gambar 11](Program01/01.png)
