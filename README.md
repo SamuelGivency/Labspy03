@@ -13,3 +13,6 @@
 <p>Masukkan variable b dengan int input setelah itu gunakan statement if jika <i>b sama dengan 0 program berhenti</i> dan jika <i>b lebih besar dari a print bilangan terbesar b</i> dan akan menghasilkan program seperti dibawah</p>
 
 ![Gambar 10](Latihan02/02.png)
+
+## Program 1 (Menghitung Laba)
+![Gambar 11](Program/01.png)
